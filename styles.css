@@ -30,11 +30,6 @@ main{
   max-width: 1000px;
   min-height: 50vh;
   margin: 10vh auto;
-   /* Centering text */
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
 }
 
 .no-background{
